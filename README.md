@@ -1,5 +1,7 @@
 <h1 align="center">Olá 👋, sou Eduardo Carvalho</h1>
-<h3 align="center">Me formei em Quality Assurence (QA), já aprendi algumas habilidades essenciais para testar interfaces manualmente, como: Testar novos recursos de software, garantir que as alterações no software não criem novos erros, criar relatórios de bugs completos que descrevem problemas com o software, aprendi tudo sobre análise de requisitos, checklists e casos de teste. Além disso, também desenvolvi testes para um serviço que cria rotas para vários tipos de transporte, fornecendo documentos de teste, realizando testes e relatórios de bugs, testando manualmente aplicativos web de diferentes tipos, já pratiquei testes de IU de aplicativos e trabalhei com uma API usando o Postman e VsCode.</h3>
+<h3 align="center">Formei-me em Quality Assurance (QA) e já adquiri várias habilidades essenciais para testar interfaces manualmente, tais como: testar novos recursos de software, garantir que as alterações no software não introduzam novos erros e criar relatórios de bugs detalhados que descrevem problemas no software. Também aprendi sobre análise de requisitos, checklists e casos de teste.
+
+Além disso, desenvolvi testes para um serviço de criação de rotas para diversos tipos de transporte, elaborando documentos de teste, executando testes e gerando relatórios de bugs. Tenho experiência em testes manuais de aplicativos web de diferentes tipos, incluindo testes de interface do usuário (IU) de aplicativos. Também trabalhei com APIs usando o Postman e VSCode.</h3>
 
 - 🌱 Atualmente estou aprendendo **Cursando Gestão da Tecnologia da Informação**
 
