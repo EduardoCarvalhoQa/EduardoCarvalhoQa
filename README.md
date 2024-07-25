@@ -1,2 +1,0 @@
-# ProjetosQA
-Projetos em desenvolvimento
