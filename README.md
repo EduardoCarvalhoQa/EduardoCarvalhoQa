@@ -13,6 +13,9 @@ Além disso, desenvolvi testes para um serviço de criação de rotas para diver
 
 - ⚡ Curiosidade **Sou atencioso, uma pessoa determinada, focada em aprender para que assim melhore meu desempenho pessoal e profissional, sou pontual e responsável.**
 
+"O sucesso é a soma de pequenos esforços repetidos dia após dia" - Albert Einstein
+
+
 <h3 align="left">Conecte-se comigo:</h3>
 <p align=" esquerda">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eduardo-carvalho-a78969306/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www. linkedin.com/in/eduardo-carvalho-a78969306/" height="30" width="40" /></a>
