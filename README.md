@@ -3,7 +3,7 @@
 
 Além disso, desenvolvi testes para um serviço de criação de rotas para diversos tipos de transporte, elaborando documentos de teste, executando testes e gerando relatórios de bugs. Tenho experiência em testes manuais de aplicativos web de diferentes tipos, incluindo testes de interface do usuário (IU) de aplicativos. Também trabalhei com APIs usando o Postman e VSCode.</h3>
 
-- 🌱 Atualmente estou aprendendo **Cursando Gestão da Tecnologia da Informação**
+- 🌱 Atualmente estou aprendendo **Gestão da Tecnologia da Informação pela Anhanguera**
 
 - 💬 Pergunte-me sobre **Teste caixa branca, caixa preta, caixa de areia, teste de fumaça, teste de regressão, teste de integração, teste de sistema**
 
